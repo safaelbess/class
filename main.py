@@ -1,10 +1,3 @@
-# spec=input('enter the spec')
-
-# Obj2=Student(name , age, grade,spec)
-
-# print(Obj2)
-
-
 class Car:
 
   def __init__(self, make, model, year, mileage, enginetype):
